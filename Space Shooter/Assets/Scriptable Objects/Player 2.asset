@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc03824ddbe1ae40ab36e088f67eda8, type: 3}
+  m_Name: Player 2
+  m_EditorClassIdentifier: 
+  characterName: Bear with Me
+  startingHp: 100
+  characterAbilities:
+  - {fileID: 11400000, guid: b5d902246f6bdc146a7a9af54e13946d, type: 2}
+  - {fileID: 11400000, guid: 2fc08f9141c810444a99189bff22186a, type: 2}
